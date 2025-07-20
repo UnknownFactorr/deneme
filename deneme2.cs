@@ -1,0 +1,1 @@
+Console.WriteLine("Sen beş milyar, milyon");
